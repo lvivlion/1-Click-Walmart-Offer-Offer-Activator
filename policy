@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Walmart Offer Activator</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        h1 { color: #0071ce; }
+        h2 { border-bottom: 1px solid #ccc; padding-bottom: 5px; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Walmart Offer Activator</h1>
+    <p><strong>Effective Date:</strong> February 10, 2026</p>
+
+    <h2>1. Introduction</h2>
+    <p>Walmart Offer Activator ("the Extension") is committed to protecting your privacy. This policy explains our practices regarding data collection and usage.</p>
+
+    <h2>2. No Data Collection</h2>
+    <p><strong>We do not collect, store, or transmit any user data.</strong> The extension is designed to operate entirely within your browser without sending any information to external servers or third parties.</p>
+
+    <h2>3. Extension Permissions and Usage</h2>
+    <p>The Extension requires specific permissions to function correctly, which are used solely for the following purposes:</p>
+    <ul>
+        <li><strong>Host Permission (Walmart.com):</strong> Used exclusively to identify and activate available offers on the Walmart website.</li>
+        <li><strong>Scripting/ActiveTab:</strong> Used only to interact with the elements on the Walmart page to automate the offer activation process.</li>
+    </ul>
+
+    <h2>4. Data Security</h2>
+    <p>Since no data is collected or transmitted, there is no risk of your personal information being compromised through the use of this extension.</p>
+
+    <h2>5. Changes to This Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at: <strong>ostaplernatovych@gmail.com</strong></p>
+
+    <div class="footer">
+        &copy; 2026 Walmart Offer Activator
+    </div>
+</body>
+</html>
